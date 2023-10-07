@@ -1,1 +1,1 @@
-# blinky-bus-mqtt-trays
+# blinky-MAX31865-trays
